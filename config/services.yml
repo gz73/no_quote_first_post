@@ -1,0 +1,5 @@
+services:
+    tojag.nqfp.listener:
+        class: tojag\nqfp\event\main_listener
+        tags:
+            - { name: event.listener }
