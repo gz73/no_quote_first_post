@@ -1,10 +1,10 @@
-# Tojag no quote last post
+# Tojag no quote first post
 
 ## Installation
 
-Copy the extension to phpBB/ext/tojag/nqlp
+Copy the extension to phpBB/ext/tojag/nqfp
 
-Go to "ACP" > "Customise" > "Extensions" and enable the "No quote last post" extension.
+Go to "ACP" > "Customise" > "Extensions" and enable the "No quote first post" extension.
 
 ## License
 
